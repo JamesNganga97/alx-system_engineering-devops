@@ -12,3 +12,4 @@ user to betty
 Directoris
 directories
 Directory permissions
+change group
