@@ -8,3 +8,4 @@ user to betty
 7.Everybody
 8.James_Bond
 9.John-Doe
+10.Mirror permissions
