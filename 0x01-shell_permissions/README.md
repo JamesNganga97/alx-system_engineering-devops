@@ -4,3 +4,4 @@ user to betty
 3.New Owner
 4.Empty file
 5.Execute
+6.Permissions
