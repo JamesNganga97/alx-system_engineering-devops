@@ -5,3 +5,4 @@ user to betty
 4.Empty file
 5.Execute
 6.Permissions
+7.Everybody
