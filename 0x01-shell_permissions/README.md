@@ -11,3 +11,4 @@ user to betty
 10.Mirror permissions
 Directoris
 directories
+Directory permissions
