@@ -1,7 +1,7 @@
 0.Hello World
-Confused smiley
-Display file content
-Display content of two files
-Display last ten lines of a file
-Display first ten lines of a file
-View 3rd line a file
+1.Confused smiley
+2.Display file content
+3 Display content of two files
+4 Display last ten lines of a file
+5 Display first ten lines of a file
+6 View 3rd line of a file
